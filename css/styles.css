@@ -840,21 +840,16 @@ ul {
   display: block;
 }
 
-.form-field {
-  margin-bottom: 24px;
+.modal-field {
+  margin-bottom: 8px;
 }
 
-.email {
+.form-comment {
   margin-bottom: 16px;
 }
-.name {
-  margin-bottom: 4px;
-}
-.comment {
-  margin-bottom: 16px;
-}
-.phone {
-  margin-bottom: 16px;
+
+.form-check {
+  margin-bottom: 24px;
 }
 
 .input-wrap {
@@ -903,7 +898,6 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
   align-items: center;
 }
 
