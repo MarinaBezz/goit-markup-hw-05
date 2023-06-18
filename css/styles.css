@@ -848,9 +848,12 @@ ul {
   margin-bottom: 16px;
 }
 .name {
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 .comment {
+  margin-bottom: 16px;
+}
+.phone {
   margin-bottom: 16px;
 }
 
